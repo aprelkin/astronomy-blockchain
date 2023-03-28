@@ -87,9 +87,6 @@ class Blockchain {
 
     }
 
-    /// Signature:  ID1e/oIBkKFo6NDOIbfSa1r4J7pD3e1lwgcnXVCiB7NJd6Co6iloQ/x8ZGndant1amx333PIHTvsD8lRMmX9aBI=
-
-    //for electrum  bc1qedl8kz3s08pn7qlmavhr4usl3r70mn38kvcfjk
     /**
      * The requestMessageOwnershipVerification(address) method
      * will allow you  to request a message that you will use to
